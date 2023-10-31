@@ -1,0 +1,4 @@
+pycocotools
+transformers
+coco-eval
+loguru

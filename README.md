@@ -43,7 +43,7 @@ for keyword in ['train', 'val']:
 # Training
 > python train.py
 
-训练23个epoch，可以看到learning rate、average和loss的变化；
+训练23个epoch，可以看到learning rate、training average loss和train loss的变化；
 ```
 Epoch: 1/23: 100% 16/16 [00:12<00:00, 1.65it/s, lr=9.36e-5, train average loss=0.324, train loss=0.254]
 Epoch: 1/23: 100% 7/7 [00:02<00:00, 3.73it/s, test average loss=0.841, test loss=0.287]
